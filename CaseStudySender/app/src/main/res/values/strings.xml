@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CaseStudySender</string>
+    <string name="contact_info">contact info</string>
+    <string name="enter_name">enter name</string>
+    <string name="enter_email">enter email</string>
+    <string name="enter_phone">enter phone</string>
+    <string name="send_contact">send contact</string>
+    <string name="share_text">share text</string>
+</resources>
